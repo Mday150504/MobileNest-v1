@@ -1,27 +1,27 @@
-# Mobile E-Commerce Project
+# Proyek E-Commerce Mobile
 
-A simple **mobile-focused e-commerce web application** for selling smartphones. This project is optimized for **mobile devices only** and provides a clean and user-friendly interface for browsing, adding to cart, and purchasing phones.
+Aplikasi web **e-commerce khusus perangkat mobile** untuk penjualan smartphone. Proyek ini dioptimalkan untuk **perangkat seluler** dan menawarkan antarmuka yang bersih, sederhana, dan mudah digunakan untuk menelusuri produk, menambahkan ke keranjang, dan melakukan pembelian.
 
-## Features
+## Fitur
 
-- **Mobile-First Design**: Fully responsive for smartphones.
-- **Product Listing**: Browse all available smartphones with images, prices, and details.
-- **Product Detail Page**: View detailed information about each phone.
-- **Shopping Cart**: Add, remove, and update products in your cart.
-- **User Authentication**: Simple login and registration system.
-- **Admin Dashboard**: Manage products, view orders, and update inventory.
-- **Search & Filter**: Easily find phones by brand, price, or category.
-- **Secure Checkout**: Complete purchase with user-friendly interface.
+- **Desain Mobile-First**: Tampilan sepenuhnya responsif untuk smartphone.
+- **Daftar Produk**: Menampilkan semua smartphone dengan gambar, harga, dan detail lengkap.
+- **Halaman Detail Produk**: Menampilkan informasi lengkap setiap smartphone.
+- **Keranjang Belanja**: Menambah, menghapus, dan memperbarui produk dalam keranjang.
+- **Autentikasi Pengguna**: Sistem login dan registrasi sederhana.
+- **Dashboard Admin**: Mengelola produk, melihat pesanan, dan memperbarui stok.
+- **Pencarian & Filter**: Memudahkan pengguna mencari smartphone berdasarkan merek, harga, atau kategori.
+- **Proses Checkout Aman**: Memudahkan pengguna menyelesaikan pembelian dengan aman.
 
-## Technologies Used
+## Teknologi yang Digunakan
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL / MariaDB
-- **Server**: XAMPP or any PHP server
+- **Server**: XAMPP atau server PHP lainnya
 
-## Installation
+## Instalasi
 
-1. Clone the repository:
+1. Clone repository ini:
    ```bash
-   git clone https://github.com/your-username/mobile-ecommerce.git
+   git clone https://github.com/username-anda/mobile-ecommerce.git
